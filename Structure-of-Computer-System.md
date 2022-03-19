@@ -271,6 +271,3 @@
         
         → 프로그램에 포함되어 있지 않아 CPU 제어권을 넘기며 Kernal Address space 사용해 호출
         
-2. 프로그램 실행의 단계
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f71e0191-d7cf-48cf-a962-5318359fa5c6/Untitled.png)
